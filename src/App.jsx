@@ -71,7 +71,20 @@ export default function App() {
         "Gestion de la base de données MySQL",
         "Implémentation des fonctionnalités RH"
       ]
-    }
+    },
+     {
+    title: "Développement Site Web Club des Langues",
+    company: "Stage technique chez INTERWEBSERVICE LAAYOUNE",
+    period: "2 mois - 2023",
+    technologies: "HTML5/CSS3/JavaScript ● Responsive Design",
+    description: "Création d'un site web pour un club des langues avec interface moderne et responsive",
+    tasks: [
+      "Développement front-end avec HTML5, CSS3 et JavaScript",
+      "Conception d'une interface utilisateur responsive",
+      "Optimisation de l'expérience utilisateur",
+      "Intégration de designs modernes et attractifs"
+    ]
+  }
   ];
 
   const projects = [
