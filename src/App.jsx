@@ -11,7 +11,7 @@ export default function App() {
     email: "chaimaebky14@gmail.com", 
     phone: "+212 628-077-343",
     description: "Étudiante ingénieure en informatique passionnée par les technologies innovantes. Je maîtrise le développement Full-Stack, les solutions IA et le Cloud, avec une solide expérience en React, Flask et les méthodologies DevOps. Je recherche un stage de fin d'études pour mettre à profit mes compétences techniques et mon adaptabilité dans un environnement professionnel stimulant.",
-    photo: "/images/profile.jpg" // Chemin vers ta photo
+    photo: "/public/profile.jpg" // Chemin vers ta photo
   };
 
   const education = [
@@ -88,7 +88,7 @@ export default function App() {
         "Implémentation du matching intelligent 0-100%",
         "Design de l'architecture React/Flask"
       ],
-      image: "/images/recruiter-dashboard.jpg"
+      image: "/public/recruiter-dashboard.jpg"
     },
     {
       title: "Pipeline DevOps Complet - Infrastructure Cloud",
@@ -103,7 +103,7 @@ export default function App() {
         "Déploiement automatisé sur Azure",
         "Optimisation de la qualité de code avec SonarQube"
       ],
-      image: "/images/grafana2.jpg"
+      image: "/public/grafana2.jpg"
     },
     {
       title: "Application Mobile Native - Android",
@@ -118,7 +118,7 @@ export default function App() {
         "Implémentation de la géolocalisation avec Google Maps API",
         "Création du système de quiz interactif"
       ],
-      image: "/images/quiz1.jpg"
+      image: "/public/quiz1.jpg"
     },
     {
       title: "Convertisseur Devises - Full-Stack Cloud",
@@ -133,7 +133,7 @@ export default function App() {
         "Intégration d'API temps réel pour les devises",
         "Déploiement sur Azure Container Instances"
       ],
-      image: "/images/currencyconverter2.jpg"
+      image: "/public/currencyconverter2.jpg"
     },
     {
       title: "Système Médical - Entreprise",
@@ -148,7 +148,7 @@ export default function App() {
         "Implémentation du système d'authentification sécurisé",
         "Création du calendrier de rendez-vous"
       ],
-      image: "/images/medicare.jpg"
+      image: "/public/medicare.jpg"
     }
   ];
 
