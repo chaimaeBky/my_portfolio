@@ -4,14 +4,14 @@ import './Portfolio.css';
 export default function App() {
   const [activeSection, setActiveSection] = useState('about');
 
-  // Données de votre CV
+ 
   const profile = {
     name: "EL BAKAY Chaimae",
     title: "Étudiante en Ingénierie Informatique",
     email: "chaimaebky14@gmail.com", 
     phone: "+212 628-077-343",
     description: "Étudiante ingénieure en informatique passionnée par les technologies innovantes. Je maîtrise le développement Full-Stack, les solutions IA et le Cloud, avec une solide expérience en React, Flask et les méthodologies DevOps. Je recherche un stage de fin d'études pour mettre à profit mes compétences techniques et mon adaptabilité dans un environnement professionnel stimulant.",
-    photo: "/profile.jpg" // Chemin vers ta photo
+    photo: "/Design sans titre (1).png" 
   };
 
   const education = [
