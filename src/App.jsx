@@ -110,6 +110,29 @@ export default function App() {
       ],
       image: "/recruiter-dashboard.jpg"
     },
+      {
+  title: "Enterprise REST API - Spring Boot Microservices",
+  description: "Modern enterprise backend system built with Spring Boot microservices architecture, featuring JWT authentication, database integration, and comprehensive API documentation.",
+  technologies: ["Spring Boot", "Java", "Spring Security", "JWT", "PostgreSQL", "Docker", "Spring Data JPA", "Maven"],
+  startDate: "Jan 2024",
+  endDate: "Present",
+  address: "Learning Project - Professional Development",
+  tasks: [
+    "Developed RESTful APIs with Spring Boot and Spring MVC patterns",
+    "Implemented JWT-based authentication with Spring Security",
+    "Configured database integration with Spring Data JPA and PostgreSQL",
+    "Containerized application with Docker for deployment readiness",
+    "Applied enterprise best practices for code structure and testing"
+  ],
+  features: [
+    "Microservices architecture with Spring Boot",
+    "Secure JWT authentication system",
+    "RESTful API with proper status codes and error handling",
+    "Database integration with ORM mapping",
+    "Docker containerization for cloud deployment"
+  ],
+  image: "/logo.png" // You can use a generic backend image
+},
     {
       title: "Complete DevOps Pipeline - Cloud Infrastructure",
       description: "Task management application with end-to-end automated DevOps pipeline, integrating code quality analysis, cloud deployment and real-time monitoring.",
@@ -205,8 +228,8 @@ export default function App() {
   ];
 
   const skills = {
-    "Languages": ["Python", "JavaScript", "Java", "SQL", "C#", "C/C++", "HTML/CSS"],
-    "Frameworks & Libraries": ["React", "Flask", ".NET", "J2EE", "Node.js", "Bootstrap"],
+    "Languages": ["Java","Python", "JavaScript", "Java", "SQL", "C#", "C/C++", "HTML/CSS"],
+    "Frameworks & Libraries": ["React", "Flask", ".NET", "J2EE", "Node.js", "Bootstrap" , "Flutter", "Android"],
     "Cloud & DevOps": ["Docker", "Azure", "CI/CD (GitHub Actions)"],
     "Databases": ["PostgreSQL", "MySQL", "MongoDB", "Oracle"],
     "Tools & Methodologies": ["Git", "Agile/Scrum", "UML", "REST API", "Microservices"]
