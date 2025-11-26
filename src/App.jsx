@@ -91,8 +91,8 @@ export default function App() {
       title: "AI Recruitment Platform - Full-Stack",
       description: "Intelligent recruitment platform using AI to automatically analyze CVs and calculate compatibility scores between candidates and job offers. Intelligent matching system with separate dashboard for candidates and recruiters.",
       technologies: ["React", "Flask", "NLP", "Python", "PostgreSQL", "TailwindCSS", "JWT"],
-      startDate: "Oct 2024",
-      endDate: "Dec 2024",
+      startDate: "Aout 2025",
+      endDate: "Sep 2025",
       address: "Personal Project",
       tasks: [
         "Development of NLP algorithms (Jaccard similarity) for automatic CV analysis",
@@ -114,7 +114,7 @@ export default function App() {
   title: "Enterprise REST API - Spring Boot Microservices",
   description: "Modern enterprise backend system built with Spring Boot microservices architecture, featuring JWT authentication, database integration, and comprehensive API documentation.",
   technologies: ["Spring Boot", "Java", "Spring Security", "JWT", "PostgreSQL", "Docker", "Spring Data JPA", "Maven"],
-  startDate: "Jan 2024",
+  startDate: "Oct 2025",
   endDate: "Present",
   address: "Learning Project - Professional Development",
   tasks: [
@@ -137,8 +137,8 @@ export default function App() {
       title: "Complete DevOps Pipeline - Cloud Infrastructure",
       description: "Task management application with end-to-end automated DevOps pipeline, integrating code quality analysis, cloud deployment and real-time monitoring.",
       technologies: ["Docker", "Azure", "CI/CD", "GitHub Actions", "SonarQube", "Grafana", "Prometheus", "React", "Flask"],
-      startDate: "Feb 2024",
-      endDate: "May 2024",
+      startDate: "Feb 2025",
+      endDate: "May 2025",
       address: "Academic Project - EMSI",
       tasks: [
         "Complete CI/CD pipeline configuration with GitHub Actions",
@@ -160,8 +160,8 @@ export default function App() {
       title: "Native Mobile Application - Android",
       description: "Interactive educational quiz application on Android development, integrating secure authentication, geolocation and real-time scoring system.",
       technologies: ["Android", "Firebase", "Google Maps API", "Java", "Material Design", "GPS", "Firebase Auth"],
-      startDate: "Feb 2024",
-      endDate: "Apr 2024",
+      startDate: "Feb 2025",
+      endDate: "Apr 2025",
       address: "Academic Project - EMSI",
       tasks: [
         "Native Android application development with Java",
@@ -183,8 +183,8 @@ export default function App() {
       title: "Currency Converter - Full-Stack Cloud",
       description: "Real-time currency conversion web application, fully containerized and deployed on Azure cloud with automated CI/CD pipeline.",
       technologies: ["React", "Flask", "Docker", "Azure", "API REST", "TailwindCSS", "GitHub Actions"],
-      startDate: "Jul 2024",
-      endDate: "Aug 2024",
+      startDate: "Jul 2025",
+      endDate: "Aug 2025",
       address: "Personal Cloud Project",
       tasks: [
         "React frontend development with responsive interface",
@@ -206,8 +206,8 @@ export default function App() {
       title: "Complaint Management System - Enterprise",
       description: "Enterprise complaint management platform developed for TIRSO MAROC, with AI chatbot, real-time dashboards and multi-role workflow.",
       technologies: ["React", "Flask", "PostgreSQL", "Docker", "JWT", "WebSocket", "TailwindCSS"],
-      startDate: "Mar 2024",
-      endDate: "Apr 2024",
+      startDate: "Sep 2025",
+      endDate: "Jul 2025",
       address: "Enterprise Internship - TIRSO MAROC",
       tasks: [
         "Full-stack development of the management platform",
@@ -223,7 +223,7 @@ export default function App() {
         "Notification and alert system",
         "Advanced reports and analytics"
       ],
-      image: "/medicare.jpg"
+      image: "/7.jpg"
     }
   ];
 
