@@ -111,25 +111,26 @@ export default function App() {
       image: "/recruiter-dashboard.jpg"
     },
       {
-  title: "Enterprise REST API - Spring Boot Microservices",
-  description: "Modern enterprise backend system built with Spring Boot microservices architecture, featuring JWT authentication, database integration, and comprehensive API documentation.",
-  technologies: ["Spring Boot", "Java", "Spring Security", "JWT", "PostgreSQL", "Docker", "Spring Data JPA", "Maven"],
-  startDate: "Oct 2025",
+  title: "Application Web de Gestion d’Agenda",
+  description: "Application web permettant aux utilisateurs de gérer leurs tâches quotidiennes, visualiser les événements et recevoir des rappels, avec une interface simple et intuitive.",
+  technologies: ["Spring Boot", "Angular", "MySQL", "Spring Security"],
+  startDate: "Sept 2025",
   endDate: "Present",
-  address: "Learning Project - Professional Development",
+  address: "Projet académique - EMSI Casablanca",
   tasks: [
-    "Developed RESTful APIs with Spring Boot and Spring MVC patterns",
-    "Implemented JWT-based authentication with Spring Security",
-    "Configured database integration with Spring Data JPA and PostgreSQL",
-    "Containerized application with Docker for deployment readiness",
-    "Applied enterprise best practices for code structure and testing"
+    "Développement du backend avec Spring Boot et REST API",
+    "Gestion de la base de données MySQL avec Spring Data JPA",
+    "Implémentation de l’authentification sécurisée",
+    "Création des endpoints pour gérer les tâches et rappels",
+    "Développement du frontend Angular pour les vues Dashboard, Liste et Calendrier",
+    "Mise en place des vues connexion / inscription et tableau de bord utilisateur"
   ],
   features: [
-    "Microservices architecture with Spring Boot",
-    "Secure JWT authentication system",
-    "RESTful API with proper status codes and error handling",
-    "Database integration with ORM mapping",
-    "Docker containerization for cloud deployment"
+    "Gestion des tâches avec titre, description, date, priorité et statut",
+    "Système de rappels configurable (10 minutes, 1 heure, 1 jour)",
+    "Affichage des tâches en liste et calendrier",
+    "Dashboard avec statistiques du jour, mini-calendrier et prochaines tâches",
+    "Authentification sécurisée avec mot de passe hashé"
   ],
   image: "/logo.png" // You can use a generic backend image
 },
